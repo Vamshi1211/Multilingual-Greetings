@@ -1,0 +1,20 @@
+.button-list-item-container {
+  list-style-type: none;
+}
+
+.controls-button {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  outline: none;
+  cursor: pointer;
+  padding: 6px 18px 6px 18px;
+  font-family: 'Roboto';
+  border-radius: 10px;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
